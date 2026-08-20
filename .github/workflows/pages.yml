@@ -42,7 +42,7 @@ jobs:
 
       - name: Build site
         run: |
-          calepin compile . public
+          calepin compile site public
           touch public/.nojekyll
 
       - name: Configure GitHub Pages

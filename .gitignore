@@ -1,2 +1,5 @@
 public/
 _calepin/
+site/_calepin/
+.calepin-entry.*
+site/.calepin-entry.*
