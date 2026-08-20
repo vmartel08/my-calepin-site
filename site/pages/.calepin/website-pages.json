@@ -1,0 +1,24 @@
+[
+  {
+    "excerpt": "Welcome to my website.",
+    "href": "index.html",
+    "language": null,
+    "meta": {},
+    "path": "index.typ",
+    "pdf": null,
+    "title": "index",
+    "translation_key": "index",
+    "translations": {}
+  },
+  {
+    "excerpt": "This is the about page.",
+    "href": "pages/about.html",
+    "language": null,
+    "meta": {},
+    "path": "pages/about.typ",
+    "pdf": null,
+    "title": "about",
+    "translation_key": "pages/about",
+    "translations": {}
+  }
+]

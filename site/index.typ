@@ -1,11 +1,13 @@
-= Hello from Typst
+= Home
 
-This page was written in *Typst* and converted to HTML using Calepin.
+Welcome to my website.
 
-== It works
+This page is written in *Typst*.
 
-If you can read this in a browser, the basic setup is working.
+== Getting started
 
-== Pages
+Here's some ordinary Typst content.
 
-#link("pages/about.html")[About]
+- One
+- Two
+- Three

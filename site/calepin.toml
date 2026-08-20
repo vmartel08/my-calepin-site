@@ -1,1 +1,23 @@
-asset-dir = "_calepin"
+base-url = "https://vmartel08.github.io/my-calepin-site"
+
+title = "My Calepin Site"
+description = "A website written in Typst and published with Calepin."
+
+theme = "calepin"
+
+[pages]
+include = ["pages/*.typ"]
+
+[[menus.main]]
+target = "index.typ"
+label = "Home"
+
+[[menus.main]]
+target = "pages/about.typ"
+label = "About"
+
+[footer]
+
+[[footer.item]]
+target = "https://github.com/"
+label = "GitHub"

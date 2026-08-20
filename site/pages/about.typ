@@ -1,5 +1,7 @@
 = About
 
-This is the about page of my Calepin website. 
+This is the about page.
 
-#link("../index.html")[← Back to home]
+== Why?
+
+Because writing websites in Typst sounds much more fun than writing HTML by hand.
